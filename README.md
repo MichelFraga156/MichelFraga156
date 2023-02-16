@@ -7,15 +7,15 @@
   
   <p align="center">
     Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
-    <a href="https://www.youtube.com/channel/UCwApBhpQmp_vczeYhlLPPNw" target="_blank">
+    <a href="https://www.youtube.com/channel/UCwApBhpQmp_vczeYhlLPPNw"target="_blank">
       <img
            width="10%" 
            align="center" 
            valign="middle" 
-           src="" 
+           src="https://img.shields.io/youtube/channel/subscribers/UCwApBhpQmp_vczeYhlLPPNw=iEasy&Code=social" 
            target="_blank" 
       />
-    </a>  
+    </a>                              @michelfraga156
   </p>
   
   <p align="center">
