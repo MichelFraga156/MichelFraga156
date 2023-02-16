@@ -7,7 +7,7 @@
   
   <p align="center">
     Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
-    <a href="" target="_blank">
+    <a href="https://www.youtube.com/channel/UCwApBhpQmp_vczeYhlLPPNw" target="_blank">
       <img
            width="10%" 
            align="center" 
