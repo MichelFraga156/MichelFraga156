@@ -7,7 +7,7 @@
   
   <p align="center">
     Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
-    <a href="https://www.youtube.com/channel/UCwApBhpQmp_vczeYhlLPPNw"target="_blank">
+    <a href="https://www.youtube.com/@michelfraga156"target="_blank">
       <img
            width="10%" 
            align="center" 
@@ -15,7 +15,7 @@
            src="https://img.shields.io/youtube/channel/subscribers/UCwApBhpQmp_vczeYhlLPPNw=iEasy&Code=social" 
            target="_blank" 
       />
-    </a>                              @michelfraga156
+    </a>                             
   </p>
   
   <p align="center">
@@ -33,7 +33,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="180em" alt="coding-time" src="imagens/code.gif">
-    <h1 align="center">Melhores Tecnologias</h1>
+    <h1 align="center"> Tecnologias </h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
