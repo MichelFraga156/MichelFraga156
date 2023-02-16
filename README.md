@@ -73,9 +73,5 @@
     </a>
 </div>
 
-<div align="center">
 
-  ![Snake animation](https://github.com/MichelFraga156/MichelFraga156/new/main?readme=1)
-  
-</div>
    
