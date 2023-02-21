@@ -1,9 +1,8 @@
 <div>
   
   <h1 align="center">
-    Olá! Tudo bem? Eu sou o 👋
-    <a href="https://www.linkedin.com/in/michel-fraga-a9932b1a1//"> Michel Fraga</a>
-  </h1>
+    Olá! Tudo bem? Eu sou o 👋  Michel Fraga.
+     
   
   <p align="center">
     Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
